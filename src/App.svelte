@@ -39,6 +39,5 @@
   h1 {
     font-size: 5rem;
     line-height: 1.1;
-
   }
 </style>
